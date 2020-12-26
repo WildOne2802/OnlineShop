@@ -1,0 +1,355 @@
+.headerBox {
+    height: 70px;
+    width: 100%;
+    display: flex;
+    bottom: 0;
+    left: 0;
+    top: 0px;
+    background-color: #00000055;
+    border: 1px solid #00000011;
+    justify-content: center;
+    position: sticky;
+}
+
+.headerLinksBox {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.headerItems {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+    font-family: "Helvetica";
+    width: 80%;
+}
+
+.headerLink {
+    text-decoration: none;
+    font-family: Helvetica;
+    font-weight: lighter;
+    text-align: center;
+    color: #1c1c1c;
+    width: 100px;
+}
+
+.headerLinkWhite {
+    font-family: Helvetica;
+    font-weight: lighter;
+    text-decoration: none;
+    text-align: center;
+    color: #ffffff;
+    width: 100px;
+}
+
+.logo {
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+    background-color: black;
+}
+
+.mlogo {
+    height: 40px;
+    width: auto;
+    margin-right: 5px;
+}
+
+/*Background-Image*/
+
+.background-image {
+    width: 100%;
+    height: 645px;
+    background-image: url('./Images/BMW M5.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    top: 0;
+    left: 0;
+}
+
+/* CONTACTS*/
+
+.bottomLinks {
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+    display: flex;
+    margin-right: 42px;
+}
+
+.bottomLink {
+    margin: 5px;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
+
+/* BODY */
+
+.titleBox {
+    display: flex;
+    flex-direction: row;
+    /*align-items: center;*/
+}
+
+.title {
+    height: 645px;
+}
+
+.titleSuperBox {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    height: 440px;
+}
+
+.titleSubBox {
+    width: 50%;
+    margin-top: 5%;
+}
+
+.titleDescription {
+    display: flex;
+    justify-content: space-around;
+    width: 30%;
+}
+
+.titleCommonText {
+    font-family: Helvetica;
+    font-weight: lighter;
+    color: #ffffff;
+}
+
+.textWhite {
+    color: #ffffff;
+    font-family: "Helvetica";
+    font-weight: lighter;
+}
+
+.textWhiteTitle {
+    color: #ffffff;
+    font-weight: lighter;
+    font-family: "Helvetica";
+    font-size: 40px;
+}
+
+.textBlack {
+    color: #1c1c1c;
+    font-family: "Helvetica";
+}
+
+.sectionName {
+    margin-left: 20px;
+    margin-top: 20px;
+    color: #1c1c1c;
+    font-family: "Helvetica";
+}
+
+.textBlackTitle {
+    color: #1c1c1c;
+    font-family: "Helvetica";
+    font-weight: lighter;
+    font-size: 50px;
+    /*width: 90%;*/
+}
+
+/* fdfdfd*/
+html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    position: relative;
+    overflow-x: hidden;
+}
+
+
+#menu {
+    display: flex;
+    transition: 0.5s;
+    height: 70px;
+    width: 100%;
+    /*position: fixed;*/
+    position: sticky;
+    /*top: 0px;*/
+    top: 0px;
+    background-color: white;
+    border: 1px solid #00000011;
+    /*justify-content: center;*/
+    /*align-items: center;*/
+}
+
+#general {
+    width: 100%;
+    background-color: #ffffff;
+    height: 780px;
+    padding-top: 70px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+.mapBox {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.map {
+    width: 60%;
+    height: auto;
+}
+
+
+/*Gallery*/
+.gallery {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 86%;
+}
+
+.galleryImg {
+    width: 280px;
+    height: 420px;
+    object-fit: contain;
+}
+
+.galleryImg:hover {
+    object-fit: cover;
+}
+
+/*.galleryItem{*/
+/*    position: relative;*/
+/*    text-align: center;*/
+/*    color: white;*/
+/*}*/
+
+/*.galleryItemDescriptionContainer {*/
+/*    position: absolute;*/
+/*    bottom: 8px;*/
+/*    left: 16px;*/
+/*}*/
+
+#firstSection {
+    display: none;
+    background-image: url("Images/bmw-5-series-sedan-m-highlights-highlight-m5-competition-desktop-01.jpg");
+    background-size: auto 100%;
+}
+
+#secondSection {
+    display: none;
+    background-image: url("Images/bmw-5-series-sedan-m-highlights-highlight-m5-competition-desktop-02.jpg");
+    background-size: auto 100%;
+}
+
+#thirdSection {
+    display: none;
+    background-image: url("Images/bmw-5-series-sedan-m-highlights-highlight-m5-competition-desktop-03.jpg");
+    background-size: auto 100%;
+}
+
+#fourthSection {
+    display: none;
+    background-image: url("Images/bmw-5-series-sedan-m-highlights-highlight-m5-competition-desktop-04.jpg");
+    background-size: auto 100%;
+}
+
+.slide {
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-color: #00000055;
+    color: white;
+    position: fixed;
+    z-index: 20;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: Helvetica;
+    font-weight: lighter;
+    background-blend-mode: darken;
+    animation: fadein 1s;
+}
+
+@keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.slideTitle {
+    width: 80%;
+    font-size: 60px;
+}
+
+.slideCloseCross {
+    font-size: 60px;
+    background-color: transparent;
+    height: auto;
+    color: white;
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+.slideSubtitle {
+    width: 80%;
+    font-size: 30px;
+}
+
+.slideDescription {
+    width: 80%;
+    font-size: 25px;
+}
+
+.slideTitleWrap {
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.quote {
+    height: 100%;
+    width: 20%;
+    font-family: Helvetica;
+    font-weight: lighter;
+    font-size: 30px;
+}
+
+.quoteContainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+    margin-bottom: 100px;
+}
+
+.quoteAuthor {
+    font-family: Helvetica;
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+
