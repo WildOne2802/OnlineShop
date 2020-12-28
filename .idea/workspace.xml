@@ -1,7 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9c2bc6d-f808-4f82-bb9b-d88231598236" name="Default Changelist" comment="" />
+    <list default="true" id="f9c2bc6d-f808-4f82-bb9b-d88231598236" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/1280px-BMW_M5_G30_Krakow.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/1280px-MoteurBMWV10Motorsport.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/1920px-2018_BMW_M5_Automatic_4.4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/1920px-BMW_M5_Motor_IMG_0365.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-2006_BMW_M5_-_Flickr_-_The_Car_Spy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-BMW_M5_(3783871371)_Edited.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-BMW_M5_E28_Minervablau_Heck.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-BMW_M5_E28_Minervablau_Motorraum.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-BMW_M5_E34_front.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-BMW_M5_F10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-Bmw_m5_s62_motor-terabass.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-Siłownia_M5_e34_PL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-Techno-Classica_2018,_Essen_(IMG_8969).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/OnlineShop.js" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/OnlineShop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/history.html" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/history.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineShop/onlineShop.css" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/onlineShop.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,9 +57,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/OnlineShop/Images" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/OnlineShop/Images" />
+      <recent name="$PROJECT_DIR$/OnlineShop" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,11 +75,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609148369374</updated>
-      <workItem from="1609148374369" duration="195000" />
+      <workItem from="1609148374369" duration="29798000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609156603852">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1609156603852" />
+    <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609159095031">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="518" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1609159095031" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1609186832661">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1609186832661" />
   </component>
 </project>

@@ -40,3 +40,15 @@ function openFourth() {
 function closeFourth() {
     document.getElementById("fourthSection").style.display = 'none';
 }
+
+const array = []
+
+function acceptReport() {
+    array.push({
+        email: document.getElementById("emailInput").value,
+        text: document.getElementById("reportInput").value
+    });
+    document.getElementById("emailInput").value = '';
+    document.getElementById("reportInput").value = '';
+    console.log(array)
+}
