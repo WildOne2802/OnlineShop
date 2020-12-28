@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="443c3ee8-cfd7-44ee-a1f7-829a08c0d087" name="Default Changelist" comment="">
+    <list default="true" id="443c3ee8-cfd7-44ee-a1f7-829a08c0d087" name="Default Changelist" comment="Hello">
       <change afterPath="$PROJECT_DIR$/../../PetrovHockeyAcademyExpo/PetrovExpo" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../PetrovHockeyAcademyExpo/PetrovExpo/.expo-shared/assets.json" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../PetrovHockeyAcademyExpo/PetrovExpo/.gitignore" afterDir="false" />
@@ -80,7 +80,7 @@
       <workItem from="1608157194397" duration="4897000" />
       <workItem from="1608229982692" duration="6000" />
       <workItem from="1608295270353" duration="1204000" />
-      <workItem from="1608975629835" duration="27760000" />
+      <workItem from="1608975629835" duration="28025000" />
     </task>
     <servers />
   </component>
