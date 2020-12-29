@@ -20,21 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9c2bc6d-f808-4f82-bb9b-d88231598236" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/1280px-BMW_M5_G30_Krakow.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/1280px-MoteurBMWV10Motorsport.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/1920px-2018_BMW_M5_Automatic_4.4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/1920px-BMW_M5_Motor_IMG_0365.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-2006_BMW_M5_-_Flickr_-_The_Car_Spy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-BMW_M5_(3783871371)_Edited.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-BMW_M5_E28_Minervablau_Heck.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-BMW_M5_E28_Minervablau_Motorraum.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-BMW_M5_E34_front.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-BMW_M5_F10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-Bmw_m5_s62_motor-terabass.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-Siłownia_M5_e34_PL.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OnlineShop/Images/800px-Techno-Classica_2018,_Essen_(IMG_8969).jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OnlineShop/OnlineShop.js" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/OnlineShop.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OnlineShop/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/contacts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OnlineShop/history.html" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/history.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OnlineShop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineShop/index.html" afterDir="false" />
@@ -75,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609148369374</updated>
-      <workItem from="1609148374369" duration="29798000" />
+      <workItem from="1609148374369" duration="32461000" />
     </task>
     <servers />
   </component>
