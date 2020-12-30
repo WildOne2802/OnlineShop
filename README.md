@@ -10,8 +10,8 @@ v1.0
 29 Dec 2020
 
 ## Author:
-Timur Oshnokov<br>
-Ubilava Irakli
+Timur Oshnokov (layout designer, appearance designer, javascript programmer)<br>
+Ubilava Irakli (layout designer)
 
 ### Contacts:
 **Main Page:** index.html
